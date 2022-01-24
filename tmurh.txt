@@ -1,0 +1,3 @@
+El data set corresponde a clientes bancarios, el analisis a efectuar es si corresponde la aprobacion o no de los creditos solicitados.
+En el mismo se aplican metodos de aprendizaje no suervisado, esto es debido a que no se cuenta con etiquetas que definan lo requerido
+por esto mismo se aplica Clustering mas precisamente KNN y PCA para la reduccion de dimensiones.
